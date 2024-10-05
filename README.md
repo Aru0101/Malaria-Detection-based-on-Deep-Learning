@@ -53,4 +53,10 @@ To run this project locally:
    ```bash
    git clone https://github.com/username/malaria-detection.git
    cd malaria-detection
+## Installation
+
+Install the necessary dependencies:
+
+```bash
+pip install -r requirements.txt
 
