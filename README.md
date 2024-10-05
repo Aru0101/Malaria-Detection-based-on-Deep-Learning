@@ -1,8 +1,8 @@
 # Malaria-Detection-based-on-Deep-Learning
-Description:
+##Description:
 This project focuses on developing an automated system to detect malaria-infected cells from microscopic blood images using deep learning. The system leverages the VGG16 model, a convolutional neural network (CNN), to accurately classify infected and uninfected cells, improving diagnostic accuracy, speed, and overall healthcare efficiency.
 
-Table of Contents
+##Table of Contents
 Problem Statement
 Solution Approach
 Technologies
@@ -11,7 +11,8 @@ Usage
 Model Performance
 Contributing
 License
-Problem Statement
+
+##Problem Statement
 Malaria, a deadly disease transmitted by infected mosquitoes, poses a significant global health threat. Manual diagnosis is time-consuming and prone to human error. The challenge is to develop an automated system that accurately detects malaria-infected cells from microscopic images of blood samples. This system aims to:
 
 Improve diagnostic accuracy.
