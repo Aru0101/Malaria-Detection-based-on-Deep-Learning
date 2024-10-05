@@ -8,7 +8,6 @@ This project focuses on developing an automated system to detect malaria-infecte
 - [Solution Approach](#solution-approach)
 - [Technologies](#technologies)
 - [Model Performance](#model-performance)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Problem Statement
@@ -45,10 +44,11 @@ The project follows these key steps:
 - **Deployment:** Integration with healthcare systems or standalone application
 
 ## Model Performance
-**The VGG16 model demonstrated high diagnostic accuracy and rapid turnaround times for malaria detection, making it a suitable solution for deployment in healthcare settings. Key benefits include:
-- **Model Architecture:** VGG16 CNN
-- **Languages:** Python
-- **Data Storage:** AWS S3 (for datasets)
-- **Deployment:** Integration with healthcare systems or standalone application
+The VGG16 model demonstrated high diagnostic accuracy and rapid turnaround times for malaria detection, making it a suitable solution for deployment in healthcare settings. Key benefits include:
+- Improved Diagnostic Accuracy
+- Time and Cost Savings
+- Scalability and Accessibility
+- Support for Healthcare Professionals
 
-
+## License
+This project is licensed under the MIT License. 
