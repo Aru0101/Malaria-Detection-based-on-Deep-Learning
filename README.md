@@ -46,6 +46,8 @@ The project follows these key steps:
 - **Deployment:** Integration with healthcare systems or standalone application
 
 ## Usage
-**To train and evaluate the model:
+To train and evaluate the model:
+python train.py --data_dir path_to_dataset --epochs 50 --batch_size 32
+
 
 
