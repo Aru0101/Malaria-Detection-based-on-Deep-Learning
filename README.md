@@ -7,7 +7,6 @@ This project focuses on developing an automated system to detect malaria-infecte
 - [Problem Statement](#problem-statement)
 - [Solution Approach](#solution-approach)
 - [Technologies](#technologies)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Contributing](#contributing)
@@ -46,49 +45,7 @@ The project follows these key steps:
 - **Data Storage:** AWS S3 (for datasets)
 - **Deployment:** Integration with healthcare systems or standalone application
 
-## Installation
-To run this project locally:
+## Usage
+**To train and evaluate the model:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/malaria-detection.git
-   cd malaria-detection
-
-2. Install the necessary dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-To train and evaluate the model:
-
-bash
-Copy code
-python train.py --data_dir path_to_dataset --epochs 50 --batch_size 32
-For deployment:
-
-bash
-Copy code
-python deploy.py --model_path path_to_trained_model
-Model Performance
-The VGG16 model demonstrated high diagnostic accuracy and rapid turnaround times for malaria detection, making it a suitable solution for deployment in healthcare settings. Key benefits include:
-
-Improved Diagnostic Accuracy
-Time and Cost Savings
-Scalability and Accessibility
-Support for Healthcare Professionals
-Contributing
-If you'd like to contribute to the project, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push the branch (git push origin feature-branch).
-Create a Pull Request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-vbnet
-Copy code
-
-You can copy and paste this content directly into your `README.md` file on GitHub. Let me know if you'd like any other changes!
 
